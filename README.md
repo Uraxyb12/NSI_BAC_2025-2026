@@ -1,1 +1,1 @@
-une correction du bac pratique de NSI en 2026, bien entendu pour certaines questions il peut y avoir de nombreuses réponses différentes, le plus important est de comprendre le code et de savoir l'expliquer.
+une correction du bac pratique de NSI en 2026, bien entendu pour certaines questions il peut y avoir de nombreuses réponses différentes, le plus important est de comprendre son code et de savoir l'expliquer.
